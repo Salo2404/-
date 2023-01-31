@@ -1,2 +1,2 @@
 # -
-https://github.com/Salo2404/-.git
+https://salo2404.github.io/will/
